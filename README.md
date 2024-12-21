@@ -6,6 +6,20 @@
 
 ## 项目结构
 
+
+│image-loader-fallback/
+├── assets/                 
+│   └── fallback-image.jpg  # 示例备用图片
+│
+├── src/                    
+│   ├── index.html          # 主要的 HTML 文件
+│   ├── script.js           # JavaScript 代码
+│   └── styles.css          # 样式文件
+│
+├── README.md               # 项目说明文件
+├── LICENSE                 # 开源许可证
+└── .gitignore              # 忽略的文件和文件夹
+
 ![输入图片说明](./assets/readme.png)
 
 ## 功能

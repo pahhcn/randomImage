@@ -2,7 +2,7 @@
  * @Author: pahhcn 9122129@gmail.com
  * @Date: 2024-12-21 12:42:07
  * @LastEditors: pahhcn 9122129@gmail.com
- * @LastEditTime: 2024-12-21 12:55:59
+ * @LastEditTime: 2024-12-21 14:14:40
  * @FilePath: \randomImage\script.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -16,10 +16,48 @@ const config = {
 
 // 默认图片 URL 列表
 const imageUrls = [
-    "https://raw.gitcode.com/qq_44112897/images/raw/master/comic/39.jpg",
-    "https://raw.gitcode.com/qq_44112897/images/raw/master/comic/9.jpg",
-    "https://raw.gitcode.com/qq_44112897/images/raw/master/comic/3.jpg",
-    "https://raw.gitcode.com/qq_44112897/images/raw/master/comic/19.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/1.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/2.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/3.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/4.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/5.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/6.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/7.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/8.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/9.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/10.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/11.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/12.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/13.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/14.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/15.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/16.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/17.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/18.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/19.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/20.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/21.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/22.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/23.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/24.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/25.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/26.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/27.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/28.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/29.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/30.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/31.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/32.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/33.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/34.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/35.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/36.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/37.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/38.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/39.jpg",
+        "https://gitee.com/dreamfcn/randomImage/raw/main/Image/40.jpg",
+       "./assets/fallback-image.jpg",
+
 
 ];
 
